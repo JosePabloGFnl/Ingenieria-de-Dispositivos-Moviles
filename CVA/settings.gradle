@@ -1,0 +1,2 @@
+rootProject.name = "CVA_VIDEOLLAMADA"
+include ':app'
