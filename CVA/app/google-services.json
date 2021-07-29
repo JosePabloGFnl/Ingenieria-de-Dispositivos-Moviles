@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929890720459",
+    "project_id": "cva-videocall",
+    "storage_bucket": "cva-videocall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929890720459:android:5111900bf4726cd615594e",
+        "android_client_info": {
+          "package_name": "com.example.cva_videollamada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929890720459-lf8kis3nu4d3vc8830cdme8ng517lvsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwCrYtvLeYRqkD4ULoa1aV1MPmrzRL7Tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929890720459-lf8kis3nu4d3vc8830cdme8ng517lvsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
