@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.cva_videollamada">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="Android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_cva"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.CVA_VIDEOLLAMADA"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="m">
+        <activity android:name=".activity.Vendedor.cerrar_sesion_vendedor" />
+        <activity android:name=".activity.Comprador.cerrar_sesion_comprador" />
+        <activity android:name=".activity.Comprador.comprar_Activity" />
+        <activity android:name=".activity.verUsuarios_Activity" />
+        <activity android:name=".activity.Vendedor.vender" />
+        <activity android:name=".activity.Vendedor.perfil_admin" />
+        <activity android:name=".activity.Comprador.perfil_Activity" />
+        <activity android:name=".activity.Vendedor.menu_chat_Admin" />
+        <activity android:name=".activity.Comprador.Menu_chat_activity" />
+        <activity android:name=".activity.Mensajeria.mensajeria_activity" />
+        <activity android:name=".activity.Vendedor.lista_carros" />
+        <activity android:name=".activity.InicioActivity" />
+        <activity android:name=".activity.Vendedor.chat_admin" />
+        <activity android:name=".activity.splash_activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.VideoLlamada.OutgoingInvitationActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.VideoLlamada.IncomingInvitationActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".RegistroInicioSesion.SignInActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize"></activity>
+        <activity
+            android:name=".RegistroInicioSesion.SignUpActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".activity.VideoLlamada.MainActivity"
+            android:screenOrientation="portrait" />
+
+        <service
+            android:name=".firebase.MessagingService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>
