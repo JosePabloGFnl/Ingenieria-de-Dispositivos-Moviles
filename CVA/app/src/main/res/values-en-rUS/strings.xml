@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CVA_CARS</string>
+    <string name="escribe_un_mensaje">Write a message</string>
+    <string name="enviar">Send</string>
+    <string name="incoming_meeting_invitation">Incoming Meeting Invitation</string>
+    <string name="iniciar_sesion">Log in</string>
+    <string name="cambiar_idioma">Change languaje</string>
+    <string name="correo_no_verificado">Unverified email</string>
+    <string name="verificar_correo">Check email</string>
+    <string name="cerrar_sesion">Sign off</string>
+    <string name="receptor">RECEIVER</string>
+    <string name="ver_usuarios">View users</string>
+    <string name="sending_meeting_invitation">Sending Meeting Invitation</string>
+    <string name="nombre_completo">Full name</string>
+    <string name="correo_electronico">Email</string>
+    <string name="fecha_de_nacimiento">Date of birth</string>
+    <string name="genero">Gender</string>
+    <string name="bienvenido">Welcome</string>
+    <string name="contrasena">Password</string>
+    <string name="no_tienes_cuenta">¿You do not have an account?</string>
+    <string name="registrate">Sign up</string>
+    <string name="olvidaste_tu_contrasenia">¿Did you forget your password?</string>
+    <string name="texto_registrar">We need some details to prepare your account</string>
+    <string name="apellido">Last Name</string>
+    <string name="confirmar_contrasena">Confirm password</string>
+    <string name="vendedor">Seller</string>
+    <string name="comprador">Buyer</string>
+    <string name="registrarse">Sign up</string>
+    <string name="ya_tienes_una_cuenta">¿Do you already have an account?</string>
+    <string name="marca">Brand</string>
+    <string name="modelo">Model</string>
+    <string name="anio">Age</string>
+    <string name="color">Color</string>
+    <string name="transmision">Transmition</string>
+    <string name="estandar">Standar</string>
+    <string name="automatico">Automatic</string>
+    <string name="publicar">Public</string>
+    <string name="hola_bienvenido">Hello welcome</string>
+    <string name="regresar">To return</string>
+    <string name="ver_videollamada">Videollamada</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="escribe_un_mensaje">Escribe un mensaje</string>
+    <string name="enviar">Enviar</string>
+    <string name="incoming_meeting_invitation">Incoming Meeting Invitation</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+    <string name="cambiar_idioma">Cambiar idioma</string>
+    <string name="correo_no_verificado">Correo no verificado</string>
+    <string name="verificar_correo">VERIFICAR CORREO</string>
+    <string name="cerrar_sesion">Cerrar sesion</string>
+    <string name="receptor">RECEPTOR</string>
+    <string name="ver_usuarios">Ver Usuarios</string>
+    <string name="sending_meeting_invitation">Sending Meeting Invitation</string>
+    <string name="nombre_completo">Nombre completo</string>
+    <string name="correo_electronico">Correo electronico</string>
+    <string name="fecha_de_nacimiento">Fecha de nacimiento</string>
+    <string name="genero">Genero</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="no_tienes_cuenta">¿No tienes cuenta?</string>
+    <string name="registrate">Registrate</string>
+    <string name="olvidaste_tu_contrasenia">¿Olvidaste tu contraseña?</string>
+    <string name="texto_registrar">Necesitamos algunos detalles para preparar su cuenta</string>
+    <string name="apellido">Apellido</string>
+    <string name="confirmar_contrasena">Confirmar contraseña</string>
+    <string name="vendedor">Vendedor</string>
+    <string name="comprador">Comprador</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="ya_tienes_una_cuenta">¿Ya tienes una cuenta?</string>
+    <string name="marca">Marca</string>
+    <string name="modelo">Modelo</string>
+    <string name="anio">Año</string>
+    <string name="color">Color</string>
+    <string name="transmision">Transmision</string>
+    <string name="estandar">Estandar</string>
+    <string name="automatico">Automatico</string>
+    <string name="publicar">Publicar</string>
+    <string name="hola_bienvenido">Hola bienvenido</string>
+    <string name="regresar">Regresar</string>
+    <string name="ver_videollamada">Videollamada</string>
+</resources>

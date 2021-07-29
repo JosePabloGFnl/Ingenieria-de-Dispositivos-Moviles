@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/vender_admin"
+        android:title="Vender"
+        android:icon="@drawable/ic_shopping_cart"/>
+
+    <item
+        android:id="@+id/lista_carro_admin"
+        android:title="Lista de Autos"
+        android:icon="@drawable/ic_list"/>
+
+    <item
+        android:id="@+id/chat_admin"
+        android:title="Mensajes"
+        android:icon="@drawable/ic_chat"/>
+
+    <item
+        android:id="@+id/cerrar_Sesion_admin"
+        android:title="Cerrar sesión"
+        android:icon="@drawable/ic_login"/>
+
+</menu>
