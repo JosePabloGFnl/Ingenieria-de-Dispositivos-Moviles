@@ -1,0 +1,302 @@
+[
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_shopping_cart.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\drawable\\ic_shopping_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_container_user.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\layout\\item_container_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_navigation.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\menu\\menu_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_meeting_invitation.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\drawable\\background_meeting_invitation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_outgoing_invitation.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\layout\\activity_outgoing_invitation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu_chat_admin.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\layout\\activity_menu_chat_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_background.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\drawable\\shape_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_perfil.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\layout\\activity_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_cva.png.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_cva.png"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_login.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\drawable\\ic_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_user_icon.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\drawable\\background_user_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_round_videocam.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\drawable\\ic_round_videocam.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_accept_invitation.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\drawable\\background_accept_invitation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_car.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\drawable\\ic_car.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_view_mensajes_receptor.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\layout\\card_view_mensajes_receptor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sing_in.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\layout\\activity_sing_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_incoming_invitation.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\layout\\activity_incoming_invitation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mensajeria.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\layout\\activity_mensajeria.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_fondo.png.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\drawable\\splash_fondo.png"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_meeting_invitation_user_icon.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\drawable\\background_meeting_invitation_user_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_android.png.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_android.png"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sing_up.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\layout\\activity_sing_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_cva.png.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_cva.png"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_lista_carros.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\layout\\activity_lista_carros.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_done.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\drawable\\ic_done.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_phone.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu_chat.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\layout\\activity_menu_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_comprar.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\layout\\activity_comprar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_android.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_android.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\layout\\activity_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cerrar_sesion_vendedor.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\layout\\activity_cerrar_sesion_vendedor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ver_usuarios.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\layout\\activity_ver_usuarios.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_conference.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\drawable\\ic_conference.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_translate.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\drawable\\ic_translate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_view_mensajes_emisor.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\layout\\card_view_mensajes_emisor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_vender.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\layout\\activity_vender.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_profile.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_cva.png.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_cva.png"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_video.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\drawable\\ic_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\drawable_c_va1.png.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\drawable\\c_va1.png"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_admin.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\menu\\menu_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_view_usuario.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\layout\\card_view_usuario.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\layout_carros_view_layout.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\layout\\carros_view_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\drawable\\selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_list.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\drawable\\ic_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_reject_invitation.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\drawable\\background_reject_invitation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_cva.png.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_cva.png"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat_admin.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\layout\\activity_chat_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_cva.png.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_cva.png"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_android.png.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_android.png"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_android.png.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_android.png"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cerrar_sesion_comprador.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\layout\\activity_cerrar_sesion_comprador.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_round_call.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\drawable\\ic_round_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_view_admin.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\layout\\card_view_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_android.png.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_android.png"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_perfil_admin.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\layout\\activity_perfil_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_inicio.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\layout\\activity_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_android.png.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_android.png"
+    },
+    {
+        "merged": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_chat.xml.flat",
+        "source": "C:\\Users\\Josue Fdz\\Desktop\\CVA_VIDEOLLAMADA_Buena\\CVA_VIDEOLLAMADA_Buena\\app\\src\\main\\res\\drawable\\ic_chat.xml"
+    }
+]
